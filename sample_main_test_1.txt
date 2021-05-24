@@ -1,4 +1,1 @@
 this is ampl text file
-
-
-new line
